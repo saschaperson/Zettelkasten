@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "b76484a888b89335",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bf2ab4564016aba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab1d8eec99c2f385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homebridge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Homebridge"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f927e40c9fec34f",
+    "type": "split",
+    "children": [
+      {
+        "id": "808e090ba8b9aac9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42900827713fc4db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ae0e7379de493806",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "381df7837deb71b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87671d3439fccf87",
+    "type": "split",
+    "children": [
+      {
+        "id": "5acab0c5b2baba6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fbc5ac233898dc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "202502162101 Brunnen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 202502162101 Brunnen"
+            }
+          },
+          {
+            "id": "b03af3aaa74c4157",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "202502162101 Brunnen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 202502162101 Brunnen"
+            }
+          },
+          {
+            "id": "19587777857fdd05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2011dfd95ada6f4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "202502162101 Brunnen.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 202502162101 Brunnen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ab1d8eec99c2f385",
+  "lastOpenFiles": [
+    "Fashion.md",
+    "Gesünder essen.md",
+    "Priorisierung.md",
+    "Handbooks.md",
+    "Untitled.md",
+    "Investitionsplan 202107141455.md",
+    "202502162101 Brunnen.md",
+    "202502161929 CRM Infos.md",
+    "202411091546 Fritz!Box Update.md"
+  ]
+}
